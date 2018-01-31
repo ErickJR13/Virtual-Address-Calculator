@@ -1,6 +1,4 @@
-//
-//  SubProject2.cpp
-//  Project 3 - CSCI 375
+// Project 3 - CSCI 375
 //
 //  Created by Erick Jean Reyes on 12/13/17.
 //  Copyright © 2017 Erick Jean Reyes. All rights reserved.
